@@ -1,0 +1,25 @@
+# Java class files
+*.class
+
+# Maven output folders
+/target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Eclipse project settings
+.project
+.classpath
+.settings/
+*.iml
+
+# Local environment config (optional)
+.env
+application.properties
+
+# Uploaded images
+/uploads/
